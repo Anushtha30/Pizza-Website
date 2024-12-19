@@ -88,8 +88,9 @@ header .login a {
   padding: 50px 20px;
   background-image: url(best\ pizza.jfif);
   size-adjust:60px ;
-  color: rgb(221, 205, 25);
+  color: white
 }
+
 
 .best-pizza img {
   width: 100%;
